@@ -1,4 +1,4 @@
-#Hi I am Surya Teja
+# About Me:
 👋 Hi, I’m @Surya Teja<br>🚀 Exploring the world of cutting-edge Technologies.<br>🌱 Currently learning: Full Stack Development (Frontend + Backend wizardry)<br>👀 Passionate about: Innovation, Learning new Things, and tech that transforms lives<br>💡 Open to collaborate on: Exciting projects, and impactful ideas<br>📫 Let’s connect: Reach out on [LinkedIn/Twitter/Instagram]<br><br>✨ “Always curious, always building!”
 
 
