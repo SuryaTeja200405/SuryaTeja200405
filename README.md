@@ -10,7 +10,7 @@
 Welcome to my GitHub profile! I'm a Frontend Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, SQLite, MongoDB, and Figma, I Open to collaboration on innovative projects, startups, and cutting-edge web apps.
 
 # 💫 About Me:
-💼 Full Stack Developer<br>🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL,Figma<br>✨ Learning Full Stack Development at NxT Wave<br>🎓 Pursuing Bachelor's in Electronics and Communication Engineering<br>🌍 Open to collaboration on innovative projects, startups, and cutting-edge web apps.<br>👨‍💻 All of my projects are available at [https://surya05profile.ccbp.tech/](https://surya05profile.ccbp.tech/)
+💼 Frontend Developer<br>🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL,Figma<br>✨ Learning Full Stack Development at NxT Wave<br>🎓 Pursuing Bachelor's in Electronics and Communication Engineering<br>🌍 Open to collaboration on innovative projects, startups, and cutting-edge web apps.<br>👨‍💻 All of my projects are available at [https://surya05profile.ccbp.tech/](https://surya05profile.ccbp.tech/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryateja200405&label=Profile%20views&color=0e75b6&style=flat" alt="suryateja200405" /> </p>
 
 
