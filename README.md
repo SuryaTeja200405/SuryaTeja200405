@@ -10,6 +10,8 @@ I turn ideas into **visually stunning, user-friendly web experiences**. With a b
 
 # 💫 About Me:
 💼 Full Stack Developer<br>🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL,Figma<br>✨ Learning Full Stack Development at NxT Wave<br>🎓 Pursuing Bachelor's in Electronics and Communication Engineering<br>🌍 Open to collaboration on innovative projects, startups, and cutting-edge web apps.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryateja200405&label=Profile%20views&color=0e75b6&style=flat" alt="suryateja200405" /> </p>
+
 
 
 ## 🌐 Socials:
