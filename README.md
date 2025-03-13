@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dunateixc/image/upload/v1741884526/gitub_hfvzox.jpg" alt="Banner" width="1000px" height="250px"/>
+  <img src="https://res.cloudinary.com/dunateixc/image/upload/v1741885858/git1_r2kjsg.jpg" alt="Banner" width="1000px" height="250px"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Surya Teja Yellaboyina</h1>
