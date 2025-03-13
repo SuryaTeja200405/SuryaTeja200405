@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://res.cloudinary.com/dunateixc/image/upload/v1741884526/gitub_hfvzox.jpg" alt="Your Name - Web Developer" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Surya Teja Yellaboyina</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
