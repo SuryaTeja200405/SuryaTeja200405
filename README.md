@@ -9,7 +9,7 @@ I turn ideas into **visually stunning, user-friendly web experiences**. With a b
 
 
 # 💫 About Me:
-💼 Full Stack Developer<br>🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL,Figma<br>✨ Learning Full Stack Development at NxT Wave<br>🎓 Pursuing Bachelor's in Electronics and Communication Engineering<br>🌍 Open to collaboration on innovative projects, startups, and cutting-edge web apps.<br>👨‍💻 All of my projects are available at [https://surya05profile.ccbp.tech/]((https://surya05profile.ccbp.tech/))
+💼 Full Stack Developer<br>🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL,Figma<br>✨ Learning Full Stack Development at NxT Wave<br>🎓 Pursuing Bachelor's in Electronics and Communication Engineering<br>🌍 Open to collaboration on innovative projects, startups, and cutting-edge web apps.<br>👨‍💻 All of my projects are available at [https://surya05profile.ccbp.tech/](https://surya05profile.ccbp.tech/)
 
 
 
