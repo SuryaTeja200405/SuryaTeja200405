@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dunateixc/image/upload/v1741884526/gitub_hfvzox.jpg" alt="Your Name - Web Developer" width="100%" />
+  <img src="[https://your-image-url.com/banner.png](https://res.cloudinary.com/dunateixc/image/upload/v1741884526/gitub_hfvzox.jpg)" alt="Banner" width="1000px" height="250px"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Surya Teja Yellaboyina</h1>
