@@ -4,6 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Surya Teja Yellaboyina</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryateja200405&label=Profile%20views&color=0e75b6&style=flat" alt="suryateja200405" /> </p>
+
 
 Welcome to my GitHub profile! I'm a Frontend Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, SQLite, MongoDB, and Figma, I Open to collaboration on innovative projects, startups, and cutting-edge web apps.
 
